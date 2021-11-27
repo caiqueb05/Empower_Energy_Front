@@ -1683,6 +1683,8 @@ h2::after {
 	.Card-title {
 		margin-bottom: .4em;
 		text-transform: uppercase;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold;
 	}
 	.Card-title,
 	.Card-description { margin: 0; }
